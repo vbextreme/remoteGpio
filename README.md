@@ -14,7 +14,7 @@ Require:
 
 To install it:
 ==============
-$ make
+$ make </br>
 $ sudo insmod remoteGpio.ko
 
 To uninstall it:
